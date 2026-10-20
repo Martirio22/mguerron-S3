@@ -1,0 +1,20 @@
+# .NET MAUI
+bin/
+obj/
+.vs/
+
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos sensibles
+.env
+.env.*
+*.pfx
+*.p12
+*.keystore
